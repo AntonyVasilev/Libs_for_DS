@@ -5,6 +5,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
+creditcard.csv
 
 # C extensions
 *.so
